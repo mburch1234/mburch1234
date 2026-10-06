@@ -9,11 +9,11 @@ Fraud Detection and Analysis, and
 Statistical Analysis
 
 ## Technical Skills
-R & R Studio
-SQL
-Excel
-Tableau
-Data Visualization
+R & R Studio,
+SQL,
+Excel,
+Tableau,
+Data Visualization, and
 Statistical Analysis
 
 ## Education
