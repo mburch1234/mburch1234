@@ -1,16 +1,23 @@
-## Hi there 👋
+## About me
+I'm a graduate student at The University of Texas at San Antonio (UTSA) with a background in accounting and an interest in using data to solve Real-world problems.
 
-<!--
-**mburch1234/mburch1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Areas of Interest
+Data Analytics
+Accounting & Forensic Accounting
+Health Data & Health Policy
+Fraud Detection and Analysis
+Statistical Analyssi
 
-Here are some ideas to get you started:
+## Technical Skills
+R & R Studio
+SQL
+Excel
+Tableau
+Data Visualization
+Statistical Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+The University of Texas at San Antonio
+
+## Current Focus
+I'm currently expanding my skills in statistical analysis, R programming, data visualization, and health-related data analysis.
