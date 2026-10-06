@@ -6,7 +6,7 @@ Data Analytics,
 Accounting & Forensic Accounting,
 Health Data & Health Policy,
 Fraud Detection and Analysis, and
-Statistical Analyssi
+Statistical Analysis
 
 ## Technical Skills
 R & R Studio
