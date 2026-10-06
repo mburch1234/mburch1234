@@ -1,5 +1,5 @@
 ## About me
-I'm a graduate student at The University of Texas at San Antonio (UTSA) with a background in accounting and an interest in using data to solve Real-world problems.
+I'm a graduate student at The University of Texas at San Antonio (UTSA) with a background in accounting and an interest in using data to solve real-world problems.
 
 ## Areas of Interest
 Data Analytics
