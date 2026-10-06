@@ -2,10 +2,10 @@
 I'm a graduate student at The University of Texas at San Antonio (UTSA) with a background in accounting and an interest in using data to solve real-world problems.
 
 ## Areas of Interest
-Data Analytics
-Accounting & Forensic Accounting
-Health Data & Health Policy
-Fraud Detection and Analysis
+Data Analytics,
+Accounting & Forensic Accounting,
+Health Data & Health Policy,
+Fraud Detection and Analysis, and
 Statistical Analyssi
 
 ## Technical Skills
